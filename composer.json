@@ -1,0 +1,30 @@
+{
+    "name": "avon/catalog",
+    "type": "library",
+    "description": "Classes catalog AVON",
+    "authors": [
+        {
+            "name": "ProjectSoft",
+            "email": "projectsoft2009@yandex.ru"
+        }
+    ],
+    "require": {
+		"php": ">=5.6.0",
+		"ext-ctype": "*"
+    },
+    "require-dev": {
+		
+    },
+    "suggest": {
+        
+    },
+    "autoload": {
+        "psr-0": {
+            "Avon\\": "Classes/"
+        }
+    },
+    "autoload-dev": {
+        
+    },
+    "license": "LGPL-2.1"
+}
