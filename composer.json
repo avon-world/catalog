@@ -19,10 +19,10 @@
         
     },
     "autoload": {
-        "psr-0": {
-            "Avon\\": "classes/"
-        }
-    },
+		"psr-4": {
+			"Avon\\": "classes/"
+		}
+	},
     "autoload-dev": {
         
     },
